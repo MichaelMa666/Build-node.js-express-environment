@@ -7,8 +7,8 @@
 <p>upload the package to the directory: **/user/local/**</p>
 `cd /usr/local/`
 <p>Decompression this package: 
-```tar –xvf node-v4.4.3-linux-x64.tar.xz```
-![ScreenShot]https://github.com/MichaelMa666/Build-node.js-express-environment/blob/master/images/install.jpg)
+`tar –xvf node-v4.4.3-linux-x64.tar.xz`
+![ScreenShot](https://github.com/MichaelMa666/Build-node.js-express-environment/blob/master/images/install.jpg)
 <!-- <p></p>
 <p></p>
 <p></p>
