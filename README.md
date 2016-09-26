@@ -5,7 +5,7 @@
 download node-v4.4.3-linux-x64.tar.xz from Google searching.
 <br>upload the package to the directory: **/user/local/**
 <br>`cd /usr/local/`
-<br>Decompression this package: `tar –xvf node-v4.4.3-linux-x64.tar.xz`<b>
+<br>Decompression this package: `tar –xvf node-v4.4.3-linux-x64.tar.xz`<br>
 <br>![images](https://github.com/MichaelMa666/Build-node.js-express-environment/blob/master/images/install.png)
 <br>Add the node path to environment variables:
 <br>`ln -s /usr/local/node-v4.4.3-linux-x64/bin/node /usr/local/bin/node`
